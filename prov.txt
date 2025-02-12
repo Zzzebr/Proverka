@@ -1,1 +1,3 @@
-смена букв для 2ого коммита для git diff
+изменил в гите для fetch
+dlkfbngjvjmfnbv
+
